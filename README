@@ -1,0 +1,42 @@
+/*******************************************
+*					   *
+*					   *
+*      IMP(Indefinite Mining Project)	   *
+*					   *
+*					   *
+*******************************************/
+
+	IMP is going to be a open-source indefinitely-generated mining game created for the purpose of letting users explore the vast underground without having a end to it, so as not to limit their fun, as that would be mean.
+	IMP is planned to have these features in the "playable" release:
+
+* - Multiplayer support, as being alone in a cave sucks, especially when you can't get help on a difficult ore or get help when you're stuck somewhere random because the next feature below
+
+* - Lotto ores, as uncertaincy is what generates curiousity. These would be rare finds, and would give or TAKE, depending on the difference in height from spawn. These  would "buff" or "nerf" the ore multiplier, which would help or hinder the player depending on what the lotto decides to give you. However, the lotto will not just have that on the list of "rewards", but also teleportation, change of heatsuit layers, change of rad suit layers, and (ironicly) the least worst: death.
+
+* - Lots of unique ores, as nobody wants to have a Ore block and have a random value for the cash given for mining it depending on height, as that's really boring and not colorful, and is hard to know which Ore is more better. Therefore, there will be many unique ores with FIXED values (although, server owners will be able to change these values), so as to have each ore spawn in their fixed zone with their set name to make them easily remembered.
+
+* - Single-Player, for those who actually have the guts to mine forever alone.
+
+* - Buyable teleporters, as walking back to a deep mining spot takes awhile, and sometimes you don't have time to walk there. That's where these come in. They teleport you from when you command them to the location of the teleporter, making getting the valuable ores at buff time easier.
+
+* - Lighting, as perfect light is impossible in a isolated cave. Lava should glow with a red tinge, and lottos should glow with a green tinge. Ores and general rock will not glow UNLESS they are radioactive.
+
+* - Hidden secrets, these are hidden goodies that are very valuable, and players will most likily fight over these in order to get the treasure within.
+
+* - Easy installation, as taking hours to install a game or any desirable product or application is a serious downer for many, causing most to abandon their wants because of slow rate of installation. This step should be fast, not slow as dial-up.
+
+* - User content, as some people want something else other than the given miner texture and world textures. 16x16 only, as detail never matters unless the gameplay sucks, and will speed up rendering of textures.
+
+* - No corporate control, as I don't think any project that is dedicated wants their work go to waste and get trashed by executives wanting a source of money. Nobody wants that, nor does anyone want a free and open-source game turn proprietary and become DRM'd, all because some big egomaniac wants a replacement or a base for their crappy commercial game.
+
+* - No dependence on ANY proprietary libraries. No exceptions. Found a useful but proprietary library? Make a open-source equal, and keep it up to date, then it could be considered for use in the game. Otherwise, tough luck. Nobody wants that volatile DMCA hammer to wipe this one clean.
+
+* - Many supported platforms, as Windows is not the only OS in the world. There's Linux-Debian based and Linux-Redhat based and MacOS, and not to mention the countless others. We want the whole, not just the part, as the whole is greater than the part, ALWAYS.
+
+* - Many more. Who knows, the one's here are JUST THE BASE FEATURES, so you never know what extras are in the bundle!
+
+	I support user-requests for extra ideas along the way so here's my email and XMPP:
+Email at hellbender12369@gmail.com (Obscure enough to prevent the breach of the anonymity barrier. Problem, people looking for dox?)
+XMPP at madjak5@jabber.org
+
+Do not expect XMPP to be active all the time, and expect some delay on the email, as I can't seem to get my phone to link with Gmail for some reason, and I'm away from the computer MOST of the time.
