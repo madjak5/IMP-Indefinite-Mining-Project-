@@ -1,0 +1,12 @@
+Planning for IMP
+-------------------------------------------------------------------------------------------------------------------
+First off, let's just say this will take a bit, mainly due to being new to creating something other than a console program. Don't worry, it's not like this will be in assembly or something like that. (Although I'd like the speed boost from it)
+May be updated every so often depending on what is needed.
+For a list of things to do, we have:
+-Game engine - If a lightweight solution is not available, I'll have to cobble one up.
+-UI - Simple, and on the bottom and right sides of the player's view. Items go bottom, Stats go right.
+-Controls - Should be easy to learn and understand. No complicated keystrokes to do basic tasks.
+-Lotto blocks - The luck based fun of this game. Green Neon Lighting for the block.
+-Suits - Heat suits and Radsuits to protect the player from the effects of the underground. Craftable and found randomly in generated structures.
+-Structure generation - Abandoned mineshafts, bunkers, dungeon and homes, as well as a inactive reactor for serious loot
+-Items - Pick, Axe, Shovel, and possible weaponry
